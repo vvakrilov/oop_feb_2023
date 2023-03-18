@@ -1,2 +1,3 @@
 class Animal:
-    pass
+    def eat(self):
+        return "eating..."
