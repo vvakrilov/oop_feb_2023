@@ -28,8 +28,8 @@ class Hotel:
     def free_room(self, room_number: int):
         for room in self.rooms:
             if room.number == room_number:
-                room.free_room()
                 self.guests -= room.guests
+                room.free_room()
 
     def status(self):
         """
