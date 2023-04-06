@@ -6,4 +6,4 @@ def number_increment(numbers):
     return increase()
 
 
-print(number_increment([1, 2, 3]))
+# print(number_increment([1, 2, 3]))
