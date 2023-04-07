@@ -5,11 +5,10 @@ def fibonacci():
         a, b = b, a + b
 
 
-
 # generator = fibonacci()
 # for i in range(5):
 #     print(next(generator))
 
-generator = fibonacci()
-for i in range(1):
-    print(next(generator))
+# generator = fibonacci()
+# for i in range(1):
+#     print(next(generator))
