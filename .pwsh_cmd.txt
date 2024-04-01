@@ -1,0 +1,1 @@
+# C:\Program Files\PowerShell\7\pwsh.exe -NoExit -Command "& "$Env:VIRTUAL_ENV\Scripts\activate.ps1"
